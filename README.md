@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student<br>learning software engineering<br>at government polytechnic<br>
+i am currently student<br>learning Computer engineering<br>at government polytechnic<br>
 
 
 ## 🌐 Socials:
